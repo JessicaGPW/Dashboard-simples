@@ -1,0 +1,10 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static HTML dashboard served locally with Python",
+  "scripts": {
+    "dev": "python -m http.server 8000 --bind 127.0.0.1",
+    "start": "python -m http.server 8000 --bind 127.0.0.1"
+  }
+}
