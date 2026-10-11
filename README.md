@@ -86,10 +86,6 @@ A interface, sozinha, não substitui um sistema financeiro ou de BI. Para uso op
 - Substituir o CDN por uma configuração de build do Tailwind para publicação.
 - Adicionar uma captura de tela real da aplicação ao README.
 
-## Publicar no GitHub
-
-O roteiro PowerShell está em [docs/PUBLISH_GITHUB_POWERSHELL.md](docs/PUBLISH_GITHUB_POWERSHELL.md). Ele mostra como copiar os materiais, revisar as alterações, criar um commit e enviar a branch sem sobrescrever o histórico remoto.
-
 ## Competências demonstradas
 
 Estruturação sem framework, manipulação do DOM, eventos, formatação monetária em pt-BR, atualização de SVG, composição de interface com Tailwind e documentação de limites e próximos passos de um protótipo.
